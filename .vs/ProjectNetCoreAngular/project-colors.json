@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c3a879a-365e-4ba7-8d70-d1a8d0dcfa32": {
+      "ProjectGuid": "5c3a879a-365e-4ba7-8d70-d1a8d0dcfa32",
+      "DisplayName": "ProjectNetCoreAngular",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
